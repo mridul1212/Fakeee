@@ -1,0 +1,6 @@
+invite_list = []
+
+for j in range(3):
+    fnd = input()
+    invite_list.append(fnd)
+    print(f"Hi {invite_list[j]}. Please come to my Birthday party on Friday!")
